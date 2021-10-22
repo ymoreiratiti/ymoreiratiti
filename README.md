@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ## Languages and Tools:
+![Apache Airflow](https://img.shields.io/badge/-Airflow-DC382D?style=flat&logoColor=fff&logo=Airflow)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logoColor=fff&logo=Cypress)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logoColor=fff&logo=Docker)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-FEC514?style=flat&logoColor=fff&logo=ElasticSearch)
